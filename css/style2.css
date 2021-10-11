@@ -5,7 +5,13 @@
 }
 
 
-body{
-
-background-color: aqua;
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+   
 }
+.header{
+    background: url('../images/logo.jpg');
+    height: 200px;
+}
+
